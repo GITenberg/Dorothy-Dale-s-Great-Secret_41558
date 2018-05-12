@@ -1,0 +1,30 @@
+_repo: Dorothy-Dale-s-Great-Secret_41558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41558-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acting -- Juvenile fiction'
+- !lcsh 'Runaway teenagers -- Juvenile fiction'
+- !lcsh 'Theater -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Buffalo (N.Y.) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Best friends -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+title: Dorothy Dale's Great Secret
+url: http://www.gutenberg.org/ebooks/41558
